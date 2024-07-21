@@ -22,7 +22,7 @@ This is a starter template using the following stack:
 
 Follow these steps to clone the repository and start the development server:
 
-- `gh repo clone ResadM/nextjs-shadcn-dashboard`
+- `git clone https://github.com/ResadM/nextjs-shadcn-dashboard.git`
 - `npm install`
 - Create a `.env.local`
 - Add the required environment variables to the `.env.local` file:
