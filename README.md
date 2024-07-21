@@ -1,22 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center"><strong>Next.js 14 + Shadcn/ui Admin Dashboard Template with the Next.js App Router</strong></div>
+<br />
+<br />
+<div align="center">
+<a href="">View Demo</a>
+<span>
+</div>
+
+## Overview
+
+This is a starter template using the following stack:
+
+- Framework - [Next.js 14](https://nextjs.org/)
+- Styling - [Tailwind CSS](https://tailwindcss.com)
+- Component Library - [Shadcn/ui](https://ui.shadcn.com)
+- Authentication - [Auth.js](https://authjs.dev/)
+- Form Validation - [Zod](https://zod.dev)
+- State Management - [Zustand](https://docs.pmnd.rs/zustand/getting-started/introduction)
+- Forms - [React Hook Form](https://react-hook-form.com/)
 
 ## Getting Started
 
-First, run the development server:
+Follow these steps to clone the repository and start the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- ``
+- `npm install`
+- Create a `.env.local`
+- Add the required environment variables to the `.env.local` file:
+  `AUTH_SECRET= [your secret key]`
+- `npm run dev`
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
