@@ -2,7 +2,7 @@
 <br />
 <br />
 <div align="center">
-<a href="">View Demo</a>
+<a href="https://nextjs-shadcn-dashboard-navy.vercel.app/">View Demo</a>
 <span>
 </div>
 
